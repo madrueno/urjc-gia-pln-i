@@ -4,13 +4,14 @@
 
 Material docente en abierto de la Universidad Rey Juan Carlos para la asignatura de Procesamiento de Lenguaje Natural I del Grado en Inteligencia Artificial.
 
-Repositorio con ejercicios prácticos y códigos de ejemplo disponible en [https://github.com/madrueno/urjc-gia-pln-i](https://github.com/madrueno/urjc-gia-pln-i)
+Este repositorio incluye ejercicios prácticos y códigos de ejemplo:
+- **GitHub**: [madrueno/urjc-gia-pln-i](https://github.com/madrueno/urjc-gia-pln-i)
+- **Software Heritage**: [swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635](https://archive.softwareheritage.org/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635)
 
 Actualizado el 14/02/2026. Elaborado por:
 - Soto Montalvo Herranz (soto.montalvo@urjc.es) - URJC
 - Natalia Madrueño Sierro (natalia.madrueno@urjc.es) - URJC
 
-Repositorio en Software Heritage: https://archive.softwareheritage.org/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635
 
 ## Índice de Temas
 
