@@ -1,8 +1,8 @@
-# Procesamiento de Lenguaje Natural I
+# Procesamiento del Lenguaje Natural I
 
 [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635/)](https://archive.softwareheritage.org/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635;origin=https://github.com/madrueno/urjc-gia-pln-i;visit=swh:1:snp:365d51cf1e6a3a418c3672d78848d3048d5b3b63;anchor=swh:1:rev:647b40cdde3c7f4067662f5f656832d7f6e0c373)
 
-Material docente en abierto de la Universidad Rey Juan Carlos para la asignatura de Procesamiento de Lenguaje Natural I del Grado en Inteligencia Artificial.
+Material docente en abierto de la Universidad Rey Juan Carlos para la asignatura de Procesamiento del Lenguaje Natural I del Grado en Inteligencia Artificial.
 
 Este repositorio incluye ejercicios prácticos y códigos de ejemplo:
 - **GitHub**: [madrueno/urjc-gia-pln-i](https://github.com/madrueno/urjc-gia-pln-i)
@@ -44,7 +44,7 @@ pip install uv
 
 ### Estructura del Repositorio
 
-Cada tema tiene su propia carpeta. El primer tema proporciona un proyecto de ejemplo de procesamiento de lenguaje natural. A partir del segundo tema la estructura base tiene la siguiente forma:
+Cada tema tiene su propia carpeta. El primer tema proporciona un proyecto de ejemplo de procesamiento del lenguaje natural. A partir del segundo tema la estructura base tiene la siguiente forma:
 
 ```bash
 XX-nombre/

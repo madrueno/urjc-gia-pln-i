@@ -21,7 +21,7 @@ Repositorio disponible en [madrueno/data-science-project-example](https://github
 
 Proyecto para detectar spam en comentarios de YouTube mediante un pipeline completo de experimentación reproducible.
 
-Trabaja con el dataset *YouTube Spam Collection*, incluyendo diversos experimentos que comparan múltiples estrategias de procesamiento de lenguaje natural. Mantiene una organización modular, con scripts y notebooks reproducibles y tooling moderno.
+Trabaja con el dataset *YouTube Spam Collection*, incluyendo diversos experimentos que comparan múltiples estrategias de procesamiento del lenguaje natural. Mantiene una organización modular, con scripts y notebooks reproducibles y tooling moderno.
 
 
 La organización de este proyecto de ejemplo está inspirada en la estructura propuesta por  [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science).
@@ -144,7 +144,7 @@ En particular, se disponen de los siguientes scripts de preparación:
 
 ### Experimentos
 
-Los scripts de `scripts/experiments/` comparan distintas estrategias de procesamiento de lenguaje natural para la clasificación de comentarios spam en YouTube.
+Los scripts de `scripts/experiments/` comparan distintas estrategias de procesamiento del lenguaje natural para la clasificación de comentarios spam en YouTube.
 
 En particular, se disponen de los siguientes scripts de experimentación:
 
