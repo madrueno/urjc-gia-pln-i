@@ -1,0 +1,27 @@
+[project]
+name = "07-entidades-nombradas"
+version = "0.1.0"
+description = "Reconocimiento de entidades nombradas"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "jupyter>=1.0.0",
+    "notebook>=7.0.0",
+    "jupyterlab>=4.0.0",
+    "ipywidgets>=8.0.0",
+    "ipykernel>=6.0.0",
+    "nltk>=3.9.2",
+    "spacy>=3.7.3",
+    "es-core-news-sm",
+    "en-core-web-sm",
+    "en-core-web-trf",
+    "scipy>=1.11.0",
+    "scispacy>=0.6.2",
+    "en-ner-jnlpba-md",
+]
+
+[tool.uv.sources]
+es-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl" }
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl" }
+en-core-web-trf = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.3/en_core_web_trf-3.7.3-py3-none-any.whl" }
+en-ner-jnlpba-md = { url = "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_jnlpba_md-0.5.4.tar.gz" }
