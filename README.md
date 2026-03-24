@@ -1,9 +1,12 @@
 # Procesamiento del Lenguaje Natural I
 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:0af2971bf26fe097520bb46bd6283e07d784982f/)](https://archive.softwareheritage.org/swh:1:dir:0af2971bf26fe097520bb46bd6283e07d784982f;origin=https://github.com/madrueno/urjc-gia-pln-i;visit=swh:1:snp:39648b543a070432759a0d2e64e2833148426215;anchor=swh:1:rev:b41117fdd47e31a3c2c55e979bc3f59496ffaa27)
+
 Material docente en abierto de la Universidad Rey Juan Carlos para la asignatura de Procesamiento del Lenguaje Natural I del Grado en Inteligencia Artificial.
 
 Este repositorio incluye ejercicios prácticos y códigos de ejemplo:
 - **GitHub**: [madrueno/urjc-gia-pln-i](https://github.com/madrueno/urjc-gia-pln-i)
+- **Software Heritage**: [swh:1:dir:0af2971bf26fe097520bb46bd6283e07d784982f](https://archive.softwareheritage.org/swh:1:dir:0af2971bf26fe097520bb46bd6283e07d784982f)
 
 Actualizado el 24/03/2026. Elaborado por:
 - Soto Montalvo Herranz (soto.montalvo@urjc.es) - URJC
