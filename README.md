@@ -1,14 +1,11 @@
 # Procesamiento del Lenguaje Natural I
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635/)](https://archive.softwareheritage.org/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635;origin=https://github.com/madrueno/urjc-gia-pln-i;visit=swh:1:snp:365d51cf1e6a3a418c3672d78848d3048d5b3b63;anchor=swh:1:rev:647b40cdde3c7f4067662f5f656832d7f6e0c373)
-
 Material docente en abierto de la Universidad Rey Juan Carlos para la asignatura de Procesamiento del Lenguaje Natural I del Grado en Inteligencia Artificial.
 
 Este repositorio incluye ejercicios prácticos y códigos de ejemplo:
 - **GitHub**: [madrueno/urjc-gia-pln-i](https://github.com/madrueno/urjc-gia-pln-i)
-- **Software Heritage**: [swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635](https://archive.softwareheritage.org/swh:1:dir:6eb4b542c8b99bf3f4b5ebae14f6822b0aaa8635)
 
-Actualizado el 14/02/2026. Elaborado por:
+Actualizado el 24/03/2026. Elaborado por:
 - Soto Montalvo Herranz (soto.montalvo@urjc.es) - URJC
 - Natalia Madrueño Sierro (natalia.madrueno@urjc.es) - URJC
 
@@ -119,7 +116,7 @@ uv run jupyter notebook
 
 ## Licencia
 
-Este trabajo está licenciado bajo [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
+El contenido de este repositorio se distribuye bajo la licencia [GNU General Public License v3.0](https://spdx.org/licenses/GPL-3.0-only.html). El material en abierto de esta asignatura está licenciado bajo [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
 
 >©2026 Soto Montalvo Herranz, Natalia Madrueño Sierro.
 >Algunos derechos reservados  
